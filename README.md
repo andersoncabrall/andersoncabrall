@@ -1,6 +1,6 @@
 # Olá, eu sou o Anderson Cabral 👋
 
-Estudante de **Sistemas de Informação no CIn-UFPE** (4º período) focado em **Desenvolvimento Backend**, arquitetura de software e construção de aplicações escaláveis.
+Estudante de **Sistemas de Informação no CIn-UFPE** focado em **Desenvolvimento Backend**, arquitetura de software e construção de aplicações escaláveis.
 
 ---
 
